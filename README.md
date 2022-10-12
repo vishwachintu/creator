@@ -1,5 +1,5 @@
 ## Creator
-A simple utility for creating basic python CLI project structure.
+A simple utility for creating basic python project structure from CLI.
 
 ## Why? 
 It saves my precious 5 mins
